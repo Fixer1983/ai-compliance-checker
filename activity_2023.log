@@ -16,3 +16,4 @@
 2023 Activity at 2023-01-11T16:49:55: Merge feature branch into main
 2023 Activity at 2023-01-11T14:43:14: Initial prototype for feature extraction
 2023 Activity at 2023-01-12T09:07:56: Implement early stopping in training loop
+2023 Activity at 2023-01-12T15:20:41: Add support for multi-GPU training

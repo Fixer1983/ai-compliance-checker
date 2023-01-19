@@ -13,3 +13,4 @@ Robust Activity at 2023-01-17T09:18:50: Optimize neural network architecture
 Robust Activity at 2023-01-17T13:04:26: Clean up unused variables and functions
 Robust Activity at 2023-01-17T12:43:41: Address code review feedback
 Robust Activity at 2023-01-17T18:17:19: Fix bug in loss function calculation
+Robust Activity at 2023-01-19T18:50:57: Benchmark inference latency across devices

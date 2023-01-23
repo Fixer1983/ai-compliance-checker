@@ -22,3 +22,4 @@ Robust Activity at 2023-01-19T17:43:44: Implement early stopping in training loo
 Robust Activity at 2023-01-23T16:58:58: Improve model serialization and loading
 Robust Activity at 2023-01-23T11:56:27: Add unit tests for core modules
 Robust Activity at 2023-01-23T10:25:45: Optimize neural network architecture
+Robust Activity at 2023-01-23T12:50:39: Add support for multi-GPU training

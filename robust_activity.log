@@ -20,3 +20,4 @@ Robust Activity at 2023-01-19T15:07:53: Add support for transformer-based models
 Robust Activity at 2023-01-19T12:39:49: Add support for multi-GPU training
 Robust Activity at 2023-01-19T17:43:44: Implement early stopping in training loop
 Robust Activity at 2023-01-23T16:58:58: Improve model serialization and loading
+Robust Activity at 2023-01-23T11:56:27: Add unit tests for core modules

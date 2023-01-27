@@ -31,3 +31,4 @@ Robust Activity at 2023-01-25T11:07:50: Merge feature branch into main
 Robust Activity at 2023-01-25T13:38:04: Benchmark inference latency across devices
 Robust Activity at 2023-01-27T10:47:42: Fix race condition in data pipeline
 Robust Activity at 2023-01-27T12:08:19: Optimize neural network architecture
+Robust Activity at 2023-01-27T15:25:29: Optimize GPU memory allocation

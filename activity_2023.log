@@ -81,3 +81,4 @@
 2023 Activity at 2023-01-30T18:42:26: Clean up unused variables and functions
 2023 Activity at 2023-01-30T16:41:29: Fix bug in loss function calculation
 2023 Activity at 2023-01-30T13:06:07: Add support for multi-GPU training
+2023 Activity at 2023-01-30T09:19:34: Add support for transformer-based models

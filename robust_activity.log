@@ -51,3 +51,4 @@ Robust Activity at 2023-02-13T15:20:50: Initial prototype for feature extraction
 Robust Activity at 2023-02-14T18:51:06: Fix race condition in data pipeline
 Robust Activity at 2023-02-14T13:11:27: Optimize GPU memory allocation
 Robust Activity at 2023-02-14T15:33:39: Address code review feedback
+Robust Activity at 2023-02-14T10:40:47: Add unit tests for core modules

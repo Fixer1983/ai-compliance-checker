@@ -52,3 +52,4 @@ Robust Activity at 2023-02-14T18:51:06: Fix race condition in data pipeline
 Robust Activity at 2023-02-14T13:11:27: Optimize GPU memory allocation
 Robust Activity at 2023-02-14T15:33:39: Address code review feedback
 Robust Activity at 2023-02-14T10:40:47: Add unit tests for core modules
+Robust Activity at 2023-02-15T14:42:24: Benchmark inference latency across devices

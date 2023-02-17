@@ -55,3 +55,4 @@ Robust Activity at 2023-02-14T10:40:47: Add unit tests for core modules
 Robust Activity at 2023-02-15T14:42:24: Benchmark inference latency across devices
 Robust Activity at 2023-02-15T14:58:46: Add support for transformer-based models
 Robust Activity at 2023-02-15T15:48:02: Add support for multi-GPU training
+Robust Activity at 2023-02-17T14:19:03: Improve documentation for API endpoints

@@ -61,3 +61,4 @@ Robust Activity at 2023-02-17T12:35:01: Improve model serialization and loading
 Robust Activity at 2023-02-17T11:23:15: Merge feature branch into main
 Robust Activity at 2023-02-20T15:30:41: Improve model serialization and loading
 Robust Activity at 2023-02-20T15:16:43: Add support for multi-GPU training
+Robust Activity at 2023-02-20T15:09:45: Add unit tests for core modules

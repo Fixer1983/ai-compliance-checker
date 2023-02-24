@@ -162,3 +162,4 @@
 2023 Activity at 2023-02-23T13:19:01: Fix bug in loss function calculation
 2023 Activity at 2023-02-23T19:37:13: Improve model serialization and loading
 2023 Activity at 2023-02-23T16:38:54: Benchmark inference latency across devices
+2023 Activity at 2023-02-24T10:38:23: Add unit tests for core modules

@@ -87,3 +87,4 @@ Robust Activity at 2023-02-27T12:05:28: Enhance logging for debugging production
 Robust Activity at 2023-03-02T16:03:00: Improve model serialization and loading
 Robust Activity at 2023-03-02T17:21:09: Fix race condition in data pipeline
 Robust Activity at 2023-03-03T10:11:58: Refactor data loader for faster training
+Robust Activity at 2023-03-03T14:59:29: Add unit tests for core modules

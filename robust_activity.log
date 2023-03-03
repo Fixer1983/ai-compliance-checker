@@ -90,3 +90,4 @@ Robust Activity at 2023-03-03T10:11:58: Refactor data loader for faster training
 Robust Activity at 2023-03-03T14:59:29: Add unit tests for core modules
 Robust Activity at 2023-03-03T15:56:13: Implement early stopping in training loop
 Robust Activity at 2023-03-03T14:02:44: Improve documentation for API endpoints
+Robust Activity at 2023-03-03T09:54:51: Fix bug in loss function calculation

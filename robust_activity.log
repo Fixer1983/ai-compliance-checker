@@ -94,3 +94,4 @@ Robust Activity at 2023-03-03T09:54:51: Fix bug in loss function calculation
 Robust Activity at 2023-03-06T16:04:55: Initial prototype for feature extraction
 Robust Activity at 2023-03-06T10:50:54: Fix race condition in data pipeline
 Robust Activity at 2023-03-06T16:42:52: Initial prototype for feature extraction
+Robust Activity at 2023-03-06T15:27:45: Implement early stopping in training loop

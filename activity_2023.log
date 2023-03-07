@@ -176,3 +176,4 @@
 2023 Activity at 2023-03-06T19:29:06: Benchmark inference latency across devices
 2023 Activity at 2023-03-06T17:57:02: Initial prototype for feature extraction
 2023 Activity at 2023-03-06T10:23:18: Improve model serialization and loading
+2023 Activity at 2023-03-06T19:14:31: Add unit tests for core modules

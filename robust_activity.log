@@ -106,3 +106,4 @@ Robust Activity at 2023-03-09T17:17:54: Update README with new performance metri
 Robust Activity at 2023-03-09T11:51:03: Clean up unused variables and functions
 Robust Activity at 2023-03-10T09:21:41: Initial prototype for feature extraction
 Robust Activity at 2023-03-10T10:28:16: Merge feature branch into main
+Robust Activity at 2023-03-10T14:22:47: Refactor data loader for faster training

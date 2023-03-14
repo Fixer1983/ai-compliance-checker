@@ -207,3 +207,4 @@
 2023 Activity at 2023-03-14T16:24:02: Update README with new performance metrics
 2023 Activity at 2023-03-14T14:37:51: Clean up unused variables and functions
 2023 Activity at 2023-03-14T12:11:42: Benchmark inference latency across devices
+2023 Activity at 2023-03-14T09:42:02: Add support for transformer-based models

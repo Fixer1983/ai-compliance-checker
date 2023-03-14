@@ -201,3 +201,4 @@
 2023 Activity at 2023-03-13T19:54:53: Benchmark inference latency across devices
 2023 Activity at 2023-03-13T18:53:45: Initial prototype for feature extraction
 2023 Activity at 2023-03-14T12:04:47: Merge feature branch into main
+2023 Activity at 2023-03-14T15:37:52: Refactor data loader for faster training

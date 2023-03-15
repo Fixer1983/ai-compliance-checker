@@ -211,3 +211,4 @@
 2023 Activity at 2023-03-15T10:41:59: Add unit tests for core modules
 2023 Activity at 2023-03-15T14:35:27: Add unit tests for core modules
 2023 Activity at 2023-03-15T14:18:57: Refactor data loader for faster training
+2023 Activity at 2023-03-15T16:13:02: Clean up unused variables and functions

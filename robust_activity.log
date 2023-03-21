@@ -133,3 +133,4 @@ Robust Activity at 2023-03-20T13:05:54: Implement early stopping in training loo
 Robust Activity at 2023-03-21T13:22:26: Improve documentation for API endpoints
 Robust Activity at 2023-03-21T18:14:26: Add unit tests for core modules
 Robust Activity at 2023-03-21T12:31:51: Add support for transformer-based models
+Robust Activity at 2023-03-21T15:02:02: Refactor data loader for faster training

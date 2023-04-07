@@ -165,3 +165,4 @@ Robust Activity at 2023-04-06T14:44:07: Update README with new performance metri
 Robust Activity at 2023-04-06T11:43:53: Add support for transformer-based models
 Robust Activity at 2023-04-06T13:44:23: Fix bug in loss function calculation
 Robust Activity at 2023-04-06T16:44:09: Benchmark inference latency across devices
+Robust Activity at 2023-04-07T12:20:26: Fix race condition in data pipeline

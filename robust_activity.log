@@ -169,3 +169,4 @@ Robust Activity at 2023-04-07T12:20:26: Fix race condition in data pipeline
 Robust Activity at 2023-04-07T14:12:20: Update README with new performance metrics
 Robust Activity at 2023-04-07T18:51:59: Merge feature branch into main
 Robust Activity at 2023-04-07T10:18:23: Benchmark inference latency across devices
+Robust Activity at 2023-04-07T17:53:26: Add support for multi-GPU training

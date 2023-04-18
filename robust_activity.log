@@ -175,3 +175,4 @@ Robust Activity at 2023-04-14T14:07:48: Fix bug in loss function calculation
 Robust Activity at 2023-04-14T18:44:36: Fix bug in loss function calculation
 Robust Activity at 2023-04-14T17:57:05: Initial prototype for feature extraction
 Robust Activity at 2023-04-14T13:34:01: Update dependencies to latest stable versions
+Robust Activity at 2023-04-18T16:25:15: Update README with new performance metrics

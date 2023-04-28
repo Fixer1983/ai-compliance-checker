@@ -203,3 +203,4 @@ Robust Activity at 2023-04-27T09:46:20: Update README with new performance metri
 Robust Activity at 2023-04-27T11:08:56: Improve model serialization and loading
 Robust Activity at 2023-04-28T18:06:35: Clean up unused variables and functions
 Robust Activity at 2023-04-28T18:08:30: Add unit tests for core modules
+Robust Activity at 2023-04-28T11:59:19: Add support for transformer-based models

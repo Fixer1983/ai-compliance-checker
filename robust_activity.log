@@ -245,3 +245,4 @@ Robust Activity at 2023-05-24T18:28:57: Benchmark inference latency across devic
 Robust Activity at 2023-05-24T17:02:49: Merge feature branch into main
 Robust Activity at 2023-05-24T18:44:32: Benchmark inference latency across devices
 Robust Activity at 2023-05-24T15:52:01: Enhance logging for debugging production issues
+Robust Activity at 2023-05-25T11:43:15: Clean up unused variables and functions

@@ -257,3 +257,4 @@ Robust Activity at 2023-06-02T18:14:50: Fix race condition in data pipeline
 Robust Activity at 2023-06-02T15:36:31: Refactor data loader for faster training
 Robust Activity at 2023-06-02T11:13:24: Fix race condition in data pipeline
 Robust Activity at 2023-06-02T14:08:22: Add unit tests for core modules
+Robust Activity at 2023-06-02T18:58:31: Benchmark inference latency across devices

@@ -292,3 +292,4 @@ Robust Activity at 2023-06-23T16:58:16: Fix bug in loss function calculation
 Robust Activity at 2023-06-23T14:00:24: Add unit tests for core modules
 Robust Activity at 2023-06-27T14:56:31: Add support for multi-GPU training
 Robust Activity at 2023-06-27T13:03:54: Implement early stopping in training loop
+Robust Activity at 2023-06-27T15:08:01: Refactor data loader for faster training

@@ -308,3 +308,4 @@ Robust Activity at 2023-07-10T12:35:01: Optimize GPU memory allocation
 Robust Activity at 2023-07-11T16:47:16: Address code review feedback
 Robust Activity at 2023-07-11T15:55:29: Clean up unused variables and functions
 Robust Activity at 2023-07-11T13:27:54: Update README with new performance metrics
+Robust Activity at 2023-07-13T12:10:51: Add support for multi-GPU training

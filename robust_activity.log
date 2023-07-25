@@ -325,3 +325,4 @@ Robust Activity at 2023-07-25T09:56:07: Add unit tests for core modules
 Robust Activity at 2023-07-25T15:05:19: Address code review feedback
 Robust Activity at 2023-07-25T15:27:34: Refactor data loader for faster training
 Robust Activity at 2023-07-25T12:30:08: Improve model serialization and loading
+Robust Activity at 2023-07-25T11:14:58: Fix bug in loss function calculation

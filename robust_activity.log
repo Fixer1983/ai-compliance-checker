@@ -329,3 +329,4 @@ Robust Activity at 2023-07-25T11:14:58: Fix bug in loss function calculation
 Robust Activity at 2023-07-25T09:33:44: Clean up unused variables and functions
 Robust Activity at 2023-07-26T15:37:08: Add support for multi-GPU training
 Robust Activity at 2023-07-26T09:14:13: Implement early stopping in training loop
+Robust Activity at 2023-07-26T18:26:04: Refactor data loader for faster training

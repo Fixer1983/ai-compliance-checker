@@ -327,3 +327,4 @@ Robust Activity at 2023-07-25T15:27:34: Refactor data loader for faster training
 Robust Activity at 2023-07-25T12:30:08: Improve model serialization and loading
 Robust Activity at 2023-07-25T11:14:58: Fix bug in loss function calculation
 Robust Activity at 2023-07-25T09:33:44: Clean up unused variables and functions
+Robust Activity at 2023-07-26T15:37:08: Add support for multi-GPU training

@@ -349,3 +349,4 @@ Robust Activity at 2023-08-07T10:32:22: Refactor data loader for faster training
 Robust Activity at 2023-08-11T18:48:24: Refactor data loader for faster training
 Robust Activity at 2023-08-11T15:35:04: Implement early stopping in training loop
 Robust Activity at 2023-08-11T09:56:10: Fix race condition in data pipeline
+Robust Activity at 2023-08-14T17:18:27: Fix race condition in data pipeline

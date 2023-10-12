@@ -424,3 +424,4 @@ Robust Activity at 2023-10-09T13:20:30: Initial prototype for feature extraction
 Robust Activity at 2023-10-10T09:30:10: Clean up unused variables and functions
 Robust Activity at 2023-10-10T11:05:29: Implement early stopping in training loop
 Robust Activity at 2023-10-10T16:11:25: Implement early stopping in training loop
+Robust Activity at 2023-10-12T14:31:31: Add support for multi-GPU training

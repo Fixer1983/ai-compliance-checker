@@ -445,3 +445,4 @@ Robust Activity at 2023-10-18T09:41:21: Refactor data loader for faster training
 Robust Activity at 2023-10-18T15:25:26: Add support for transformer-based models
 Robust Activity at 2023-10-20T09:14:46: Initial prototype for feature extraction
 Robust Activity at 2023-10-20T12:22:22: Benchmark inference latency across devices
+Robust Activity at 2023-10-23T10:44:59: Initial prototype for feature extraction

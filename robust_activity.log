@@ -455,3 +455,4 @@ Robust Activity at 2023-10-24T16:25:48: Add support for transformer-based models
 Robust Activity at 2023-10-24T09:43:24: Benchmark inference latency across devices
 Robust Activity at 2023-10-24T14:08:42: Clean up unused variables and functions
 Robust Activity at 2023-10-25T14:58:05: Refactor data loader for faster training
+Robust Activity at 2023-10-25T17:28:59: Merge feature branch into main

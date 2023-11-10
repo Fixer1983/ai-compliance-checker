@@ -479,3 +479,4 @@ Robust Activity at 2023-11-06T14:16:26: Update dependencies to latest stable ver
 Robust Activity at 2023-11-06T11:18:22: Improve model serialization and loading
 Robust Activity at 2023-11-10T14:02:05: Implement early stopping in training loop
 Robust Activity at 2023-11-10T13:09:14: Implement early stopping in training loop
+Robust Activity at 2023-11-10T16:13:04: Benchmark inference latency across devices

@@ -485,3 +485,4 @@ Robust Activity at 2023-11-10T17:28:14: Clean up unused variables and functions
 Robust Activity at 2023-11-10T16:08:15: Implement early stopping in training loop
 Robust Activity at 2023-11-13T09:10:18: Update README with new performance metrics
 Robust Activity at 2023-11-13T17:29:59: Fix bug in loss function calculation
+Robust Activity at 2023-11-13T10:49:33: Optimize GPU memory allocation

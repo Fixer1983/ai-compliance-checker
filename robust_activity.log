@@ -496,3 +496,4 @@ Robust Activity at 2023-11-14T18:56:41: Add support for transformer-based models
 Robust Activity at 2023-11-14T11:22:02: Implement early stopping in training loop
 Robust Activity at 2023-11-15T16:29:26: Fix bug in loss function calculation
 Robust Activity at 2023-11-15T15:17:02: Sync with upstream repository changes
+Robust Activity at 2023-11-15T10:46:24: Update README with new performance metrics

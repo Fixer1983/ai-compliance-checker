@@ -509,3 +509,4 @@ Robust Activity at 2023-11-20T15:30:44: Optimize neural network architecture
 Robust Activity at 2023-11-20T11:55:46: Address code review feedback
 Robust Activity at 2023-11-20T14:39:37: Refactor data loader for faster training
 Robust Activity at 2023-11-23T09:15:10: Implement early stopping in training loop
+Robust Activity at 2023-11-23T14:01:02: Add support for transformer-based models

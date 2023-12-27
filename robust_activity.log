@@ -567,3 +567,4 @@ Robust Activity at 2023-12-22T15:18:13: Update README with new performance metri
 Robust Activity at 2023-12-22T14:59:21: Clean up unused variables and functions
 Robust Activity at 2023-12-27T11:24:43: Fix bug in loss function calculation
 Robust Activity at 2023-12-27T12:59:42: Clean up unused variables and functions
+Robust Activity at 2023-12-27T17:23:34: Fix race condition in data pipeline

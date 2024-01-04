@@ -590,3 +590,4 @@ Robust Activity at 2024-01-03T09:25:23: Merge feature branch into main
 Robust Activity at 2024-01-03T10:01:48: Fix race condition in data pipeline
 Robust Activity at 2024-01-04T13:44:09: Improve documentation for API endpoints
 Robust Activity at 2024-01-04T13:26:33: Improve model serialization and loading
+Robust Activity at 2024-01-04T09:28:46: Benchmark inference latency across devices

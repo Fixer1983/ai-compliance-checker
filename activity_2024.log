@@ -11,3 +11,4 @@
 2024 Activity at 2024-01-05T17:50:34: Benchmark inference latency across multiple devices
 2024 Activity at 2024-01-05T14:44:24: Clean up unused variables and deprecated functions
 2024 Activity at 2024-01-05T15:38:54: Sync with upstream repository changes and updates
+2024 Activity at 2024-01-05T18:59:59: Add support for multi-GPU training via DDP

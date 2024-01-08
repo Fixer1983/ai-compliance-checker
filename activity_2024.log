@@ -18,3 +18,4 @@
 2024 Activity at 2024-01-05T15:13:59: Update README with latest performance benchmarks
 2024 Activity at 2024-01-08T16:01:22: Merge feature branch into main for the next release
 2024 Activity at 2024-01-08T15:21:56: Improve model serialization and loading efficiency
+2024 Activity at 2024-01-08T11:34:22: Add comprehensive unit tests for core ML modules

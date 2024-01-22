@@ -49,3 +49,4 @@
 2024 Activity at 2024-01-19T14:05:36: Update dependencies to latest stable versions (2024)
 2024 Activity at 2024-01-22T16:15:03: Improve documentation for REST API endpoints
 2024 Activity at 2024-01-22T13:24:58: Merge feature branch into main for the next release
+2024 Activity at 2024-01-22T16:19:33: Add support for transformer-based models in inference

@@ -65,3 +65,4 @@
 2024 Activity at 2024-01-25T14:34:46: Improve documentation for REST API endpoints
 2024 Activity at 2024-01-26T09:08:40: Add comprehensive unit tests for core ML modules
 2024 Activity at 2024-01-26T13:34:05: Clean up unused variables and deprecated functions
+2024 Activity at 2024-01-29T16:31:53: Benchmark inference latency across multiple devices

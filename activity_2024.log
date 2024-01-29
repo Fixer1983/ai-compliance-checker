@@ -67,3 +67,4 @@
 2024 Activity at 2024-01-26T13:34:05: Clean up unused variables and deprecated functions
 2024 Activity at 2024-01-29T16:31:53: Benchmark inference latency across multiple devices
 2024 Activity at 2024-01-29T18:32:19: Add comprehensive unit tests for core ML modules
+2024 Activity at 2024-01-29T14:12:14: Add support for transformer-based models in inference

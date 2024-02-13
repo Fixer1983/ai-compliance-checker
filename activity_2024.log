@@ -85,3 +85,4 @@
 2024 Activity at 2024-02-12T12:28:43: Implement early stopping logic in the training loop
 2024 Activity at 2024-02-13T11:25:51: Fix bug in loss function calculation for edge cases
 2024 Activity at 2024-02-13T14:53:34: Fix bug in loss function calculation for edge cases
+2024 Activity at 2024-02-13T12:21:21: Refactor data loading pipeline for higher throughput

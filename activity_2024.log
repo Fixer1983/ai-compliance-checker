@@ -139,3 +139,4 @@
 2024 Activity at 2024-02-23T16:02:58: Optimize neural network architecture for better performance
 2024 Activity at 2024-02-23T13:44:08: Clean up unused variables and deprecated functions
 2024 Activity at 2024-02-26T11:25:02: Initial prototype for feature extraction in real-time
+2024 Activity at 2024-02-26T16:34:57: Add support for multi-GPU training via DDP

@@ -676,3 +676,4 @@ Robust Activity at 2024-02-23T18:11:43: Update dependencies to latest stable ver
 Robust Activity at 2024-02-23T10:01:04: Clean up unused variables and functions
 Robust Activity at 2024-02-28T17:32:33: Fix race condition in data pipeline
 Robust Activity at 2024-02-28T16:00:28: Add support for transformer-based models
+Robust Activity at 2024-02-28T10:44:55: Add unit tests for core modules

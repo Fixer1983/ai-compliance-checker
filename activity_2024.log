@@ -153,3 +153,4 @@
 2024 Activity at 2024-02-28T15:28:11: Improve documentation for REST API endpoints
 2024 Activity at 2024-03-01T19:22:20: Enhance logging for debugging production-level issues
 2024 Activity at 2024-03-05T17:28:21: Merge feature branch into main for the next release
+2024 Activity at 2024-03-05T16:35:24: Add support for multi-GPU training via DDP

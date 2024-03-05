@@ -159,3 +159,4 @@
 2024 Activity at 2024-03-05T12:21:45: Add support for multi-GPU training via DDP
 2024 Activity at 2024-03-05T12:54:40: Improve documentation for REST API endpoints
 2024 Activity at 2024-03-05T19:41:17: Implement early stopping logic in the training loop
+2024 Activity at 2024-03-05T09:02:17: Add support for transformer-based models in inference

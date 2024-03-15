@@ -190,3 +190,4 @@
 2024 Activity at 2024-03-13T18:37:51: Add support for transformer-based models in inference
 2024 Activity at 2024-03-14T11:33:34: Initial prototype for feature extraction in real-time
 2024 Activity at 2024-03-14T19:07:31: Update dependencies to latest stable versions (2024)
+2024 Activity at 2024-03-15T18:22:30: Add comprehensive unit tests for core ML modules

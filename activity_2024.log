@@ -197,3 +197,4 @@
 2024 Activity at 2024-03-18T16:38:50: Add support for multi-GPU training via DDP
 2024 Activity at 2024-03-18T14:42:03: Initial prototype for feature extraction in real-time
 2024 Activity at 2024-03-18T09:58:06: Improve documentation for REST API endpoints
+2024 Activity at 2024-03-18T13:58:49: Benchmark inference latency across multiple devices

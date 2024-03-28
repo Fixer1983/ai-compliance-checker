@@ -722,3 +722,4 @@ Robust Activity at 2024-03-25T17:19:46: Optimize neural network architecture
 Robust Activity at 2024-03-28T14:15:35: Benchmark inference latency across devices
 Robust Activity at 2024-03-28T16:33:00: Benchmark inference latency across devices
 Robust Activity at 2024-03-28T11:14:12: Initial prototype for feature extraction
+Robust Activity at 2024-03-28T12:25:52: Implement early stopping in training loop

@@ -231,3 +231,4 @@
 2024 Activity at 2024-03-28T10:28:14: Add support for transformer-based models in inference
 2024 Activity at 2024-03-28T13:48:17: Initial prototype for feature extraction in real-time
 2024 Activity at 2024-03-29T13:35:24: Clean up unused variables and deprecated functions
+2024 Activity at 2024-03-29T12:29:35: Fix potential race condition in the data pipeline

@@ -233,3 +233,4 @@
 2024 Activity at 2024-03-29T13:35:24: Clean up unused variables and deprecated functions
 2024 Activity at 2024-03-29T12:29:35: Fix potential race condition in the data pipeline
 2024 Activity at 2024-03-29T14:52:41: Refactor data loading pipeline for higher throughput
+2024 Activity at 2024-03-29T19:54:31: Add support for transformer-based models in inference

@@ -253,3 +253,4 @@
 2024 Activity at 2024-04-02T18:48:53: Add comprehensive unit tests for core ML modules
 2024 Activity at 2024-04-02T11:16:48: Fix potential race condition in the data pipeline
 2024 Activity at 2024-04-02T17:36:12: Add comprehensive unit tests for core ML modules
+2024 Activity at 2024-04-02T14:45:59: Benchmark inference latency across multiple devices

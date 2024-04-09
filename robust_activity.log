@@ -752,3 +752,4 @@ Robust Activity at 2024-04-05T13:52:43: Fix race condition in data pipeline
 Robust Activity at 2024-04-05T12:24:11: Fix race condition in data pipeline
 Robust Activity at 2024-04-05T16:16:41: Improve model serialization and loading
 Robust Activity at 2024-04-09T18:57:52: Add support for transformer-based models
+Robust Activity at 2024-04-09T15:58:12: Clean up unused variables and functions

@@ -282,3 +282,4 @@
 2024 Activity at 2024-04-08T13:08:38: Address code review feedback from the senior team
 2024 Activity at 2024-04-08T13:58:37: Address code review feedback from the senior team
 2024 Activity at 2024-04-08T12:49:47: Add support for transformer-based models in inference
+2024 Activity at 2024-04-09T09:23:35: Add support for multi-GPU training via DDP

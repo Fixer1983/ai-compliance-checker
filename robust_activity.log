@@ -806,3 +806,4 @@ Robust Activity at 2024-04-30T18:40:59: Add support for transformer-based models
 Robust Activity at 2024-05-01T10:53:21: Benchmark inference latency across devices
 Robust Activity at 2024-05-01T13:26:39: Initial prototype for feature extraction
 Robust Activity at 2024-05-01T12:36:16: Merge feature branch into main
+Robust Activity at 2024-05-01T15:43:08: Add unit tests for core modules

@@ -927,3 +927,4 @@ Robust Activity at 2024-07-09T18:11:12: Optimize GPU memory allocation
 Robust Activity at 2024-07-10T12:51:21: Add support for multi-GPU training
 Robust Activity at 2024-07-10T15:59:18: Fix bug in loss function calculation
 Robust Activity at 2024-07-10T16:02:55: Fix bug in loss function calculation
+Robust Activity at 2024-07-10T14:12:15: Benchmark inference latency across devices

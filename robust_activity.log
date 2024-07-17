@@ -942,3 +942,4 @@ Robust Activity at 2024-07-12T14:01:54: Enhance logging for debugging production
 Robust Activity at 2024-07-17T16:56:35: Improve documentation for API endpoints
 Robust Activity at 2024-07-17T10:49:32: Add support for transformer-based models
 Robust Activity at 2024-07-17T12:07:53: Fix bug in loss function calculation
+Robust Activity at 2024-07-17T11:06:06: Add unit tests for core modules

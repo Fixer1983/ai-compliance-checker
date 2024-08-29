@@ -1013,3 +1013,4 @@ Robust Activity at 2024-08-28T09:47:57: Sync with upstream repository changes
 Robust Activity at 2024-08-28T16:22:52: Optimize GPU memory allocation
 Robust Activity at 2024-08-29T12:52:28: Clean up unused variables and functions
 Robust Activity at 2024-08-29T12:49:16: Initial prototype for feature extraction
+Robust Activity at 2024-08-29T14:00:13: Add unit tests for core modules

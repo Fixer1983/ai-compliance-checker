@@ -1011,3 +1011,4 @@ Robust Activity at 2024-08-28T13:17:11: Fix bug in loss function calculation
 Robust Activity at 2024-08-28T16:08:59: Optimize GPU memory allocation
 Robust Activity at 2024-08-28T09:47:57: Sync with upstream repository changes
 Robust Activity at 2024-08-28T16:22:52: Optimize GPU memory allocation
+Robust Activity at 2024-08-29T12:52:28: Clean up unused variables and functions

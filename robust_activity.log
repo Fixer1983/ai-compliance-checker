@@ -1084,3 +1084,4 @@ Robust Activity at 2024-10-07T17:29:22: Implement early stopping in training loo
 Robust Activity at 2024-10-08T13:04:48: Implement early stopping in training loop
 Robust Activity at 2024-10-08T18:44:44: Improve model serialization and loading
 Robust Activity at 2024-10-08T09:47:16: Refactor data loader for faster training
+Robust Activity at 2024-10-08T12:40:35: Initial prototype for feature extraction

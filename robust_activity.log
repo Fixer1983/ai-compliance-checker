@@ -1091,3 +1091,4 @@ Robust Activity at 2024-10-10T13:44:14: Improve model serialization and loading
 Robust Activity at 2024-10-10T15:07:26: Add unit tests for core modules
 Robust Activity at 2024-10-10T18:51:20: Benchmark inference latency across devices
 Robust Activity at 2024-10-11T10:26:20: Benchmark inference latency across devices
+Robust Activity at 2024-10-11T17:49:33: Add support for transformer-based models

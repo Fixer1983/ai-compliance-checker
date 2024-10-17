@@ -1109,3 +1109,4 @@ Robust Activity at 2024-10-16T15:37:37: Add support for transformer-based models
 Robust Activity at 2024-10-16T12:59:13: Add support for transformer-based models
 Robust Activity at 2024-10-16T15:41:26: Enhance logging for debugging production issues
 Robust Activity at 2024-10-16T11:55:12: Refactor data loader for faster training
+Robust Activity at 2024-10-17T09:05:53: Improve documentation for API endpoints

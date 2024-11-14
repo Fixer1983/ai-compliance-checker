@@ -38,3 +38,4 @@ Activity at 2024-11-14T12:31:42: Update README with new performance benchmarks
 Activity at 2024-11-14T19:16:03: Fix minor bug in data preprocessing script
 Activity at 2024-11-14T16:04:46: Update documentation for RAG implementation
 Activity at 2024-11-14T13:34:22: Update requirements.txt with latest stable versions
+Activity at 2024-11-14T14:46:43: Improve error handling in distributed training

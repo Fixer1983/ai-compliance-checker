@@ -1171,3 +1171,4 @@ Robust Activity at 2024-11-18T12:33:51: Optimize neural network architecture
 Robust Activity at 2024-11-19T09:32:54: Merge feature branch into main
 Robust Activity at 2024-11-19T10:32:11: Fix bug in loss function calculation
 Robust Activity at 2024-11-19T13:49:50: Initial prototype for feature extraction
+Robust Activity at 2024-11-19T11:41:04: Refactor data loader for faster training

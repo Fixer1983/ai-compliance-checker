@@ -161,3 +161,4 @@ Activity at 2024-12-13T14:42:37: Sync with upstream changes
 Activity at 2024-12-13T09:06:52: Improve error handling in distributed training
 Activity at 2024-12-13T09:56:46: Fix minor bug in data preprocessing script
 Activity at 2024-12-13T17:29:11: Update README with new performance benchmarks
+Activity at 2024-12-13T12:17:46: Update documentation for RAG implementation

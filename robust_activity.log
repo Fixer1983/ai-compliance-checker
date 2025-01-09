@@ -1257,3 +1257,4 @@ Robust Activity at 2025-01-06T15:34:35: Fix bug in loss function calculation
 Robust Activity at 2025-01-06T16:36:16: Merge feature branch into main
 Robust Activity at 2025-01-06T09:18:42: Benchmark inference latency across devices
 Robust Activity at 2025-01-09T11:06:21: Sync with upstream repository changes
+Robust Activity at 2025-01-09T17:25:04: Update README with new performance metrics

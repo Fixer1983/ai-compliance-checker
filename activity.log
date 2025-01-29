@@ -323,3 +323,4 @@ Activity at 2025-01-28T19:33:34: Merge pull request from feature branch
 Activity at 2025-01-28T12:09:03: Prototype new attention mechanism
 Activity at 2025-01-28T10:02:42: Fix race condition in distributed mesh
 Activity at 2025-01-28T18:25:53: Update requirements.txt with latest stable versions
+Activity at 2025-01-29T17:13:50: Update README with new performance benchmarks

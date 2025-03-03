@@ -131,3 +131,4 @@
 2025 Activity at 2025-03-03T17:22:06: Benchmark inference throughput on latest hardware
 2025 Activity at 2025-03-03T17:23:16: Clean up legacy code and improve modularity
 2025 Activity at 2025-03-03T10:18:07: Update README with 2025 performance benchmarks
+2025 Activity at 2025-03-03T18:29:06: Add support for distributed training across clusters

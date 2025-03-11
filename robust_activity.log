@@ -1383,3 +1383,4 @@ Robust Activity at 2025-03-11T15:37:53: Fix bug in loss function calculation
 Robust Activity at 2025-03-11T16:44:20: Add unit tests for core modules
 Robust Activity at 2025-03-11T18:48:19: Optimize GPU memory allocation
 Robust Activity at 2025-03-11T12:43:48: Optimize neural network architecture
+Robust Activity at 2025-03-11T15:50:39: Clean up unused variables and functions

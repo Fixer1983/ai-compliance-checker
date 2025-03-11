@@ -1381,3 +1381,4 @@ Robust Activity at 2025-03-07T10:20:01: Update README with new performance metri
 Robust Activity at 2025-03-07T11:59:44: Add unit tests for core modules
 Robust Activity at 2025-03-11T15:37:53: Fix bug in loss function calculation
 Robust Activity at 2025-03-11T16:44:20: Add unit tests for core modules
+Robust Activity at 2025-03-11T18:48:19: Optimize GPU memory allocation

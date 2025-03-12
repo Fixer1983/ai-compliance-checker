@@ -161,3 +161,4 @@
 2025 Activity at 2025-03-12T18:06:39: Add comprehensive integration tests for core modules
 2025 Activity at 2025-03-12T11:19:27: Update dependencies to 2025 stable versions
 2025 Activity at 2025-03-12T12:46:12: Address feedback from technical design review
+2025 Activity at 2025-03-12T10:25:49: Benchmark inference throughput on latest hardware

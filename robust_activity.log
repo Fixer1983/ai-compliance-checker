@@ -1399,3 +1399,4 @@ Robust Activity at 2025-03-18T09:28:11: Benchmark inference latency across devic
 Robust Activity at 2025-03-19T14:08:01: Improve model serialization and loading
 Robust Activity at 2025-03-19T15:51:12: Fix race condition in data pipeline
 Robust Activity at 2025-03-19T11:20:38: Merge feature branch into main
+Robust Activity at 2025-03-19T14:56:17: Add support for transformer-based models

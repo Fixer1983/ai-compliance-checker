@@ -1438,3 +1438,4 @@ Robust Activity at 2025-04-03T17:43:54: Add unit tests for core modules
 Robust Activity at 2025-04-03T10:02:03: Sync with upstream repository changes
 Robust Activity at 2025-04-07T17:07:14: Improve model serialization and loading
 Robust Activity at 2025-04-07T11:19:32: Add unit tests for core modules
+Robust Activity at 2025-04-07T14:07:04: Benchmark inference latency across devices

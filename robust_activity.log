@@ -1442,3 +1442,4 @@ Robust Activity at 2025-04-07T14:07:04: Benchmark inference latency across devic
 Robust Activity at 2025-04-07T16:26:00: Fix bug in loss function calculation
 Robust Activity at 2025-04-07T18:40:33: Initial prototype for feature extraction
 Robust Activity at 2025-04-07T18:51:01: Add support for multi-GPU training
+Robust Activity at 2025-04-09T14:07:07: Improve documentation for API endpoints

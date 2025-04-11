@@ -1445,3 +1445,4 @@ Robust Activity at 2025-04-07T18:51:01: Add support for multi-GPU training
 Robust Activity at 2025-04-09T14:07:07: Improve documentation for API endpoints
 Robust Activity at 2025-04-09T17:39:00: Clean up unused variables and functions
 Robust Activity at 2025-04-11T12:33:41: Improve model serialization and loading
+Robust Activity at 2025-04-11T10:30:20: Add support for transformer-based models

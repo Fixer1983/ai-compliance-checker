@@ -257,3 +257,4 @@
 2025 Activity at 2025-04-18T09:48:28: Optimize memory management for large-scale inference
 2025 Activity at 2025-04-18T15:17:38: Improve model serialization for edge deployment
 2025 Activity at 2025-04-21T14:32:52: Update README with 2025 performance benchmarks
+2025 Activity at 2025-04-21T18:25:11: Add support for multimodal models in inference engine

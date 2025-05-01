@@ -1487,3 +1487,4 @@ Robust Activity at 2025-05-01T11:05:31: Clean up unused variables and functions
 Robust Activity at 2025-05-01T14:57:20: Update README with new performance metrics
 Robust Activity at 2025-05-01T14:49:19: Merge feature branch into main
 Robust Activity at 2025-05-01T13:52:26: Initial prototype for feature extraction
+Robust Activity at 2025-05-01T13:33:37: Add support for multi-GPU training

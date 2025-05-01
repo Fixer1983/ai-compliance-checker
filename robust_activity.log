@@ -1484,3 +1484,4 @@ Robust Activity at 2025-04-29T18:17:24: Fix race condition in data pipeline
 Robust Activity at 2025-04-29T16:21:56: Benchmark inference latency across devices
 Robust Activity at 2025-05-01T10:56:59: Benchmark inference latency across devices
 Robust Activity at 2025-05-01T11:05:31: Clean up unused variables and functions
+Robust Activity at 2025-05-01T14:57:20: Update README with new performance metrics

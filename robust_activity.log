@@ -1489,3 +1489,4 @@ Robust Activity at 2025-05-01T14:49:19: Merge feature branch into main
 Robust Activity at 2025-05-01T13:52:26: Initial prototype for feature extraction
 Robust Activity at 2025-05-01T13:33:37: Add support for multi-GPU training
 Robust Activity at 2025-05-02T18:49:45: Implement early stopping in training loop
+Robust Activity at 2025-05-02T16:24:29: Add support for multi-GPU training

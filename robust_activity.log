@@ -1491,3 +1491,4 @@ Robust Activity at 2025-05-01T13:33:37: Add support for multi-GPU training
 Robust Activity at 2025-05-02T18:49:45: Implement early stopping in training loop
 Robust Activity at 2025-05-02T16:24:29: Add support for multi-GPU training
 Robust Activity at 2025-05-02T13:39:48: Enhance logging for debugging production issues
+Robust Activity at 2025-05-02T17:03:05: Improve documentation for API endpoints

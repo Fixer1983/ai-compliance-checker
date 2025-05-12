@@ -1502,3 +1502,4 @@ Robust Activity at 2025-05-06T15:41:57: Improve model serialization and loading
 Robust Activity at 2025-05-07T16:15:02: Initial prototype for feature extraction
 Robust Activity at 2025-05-07T17:56:23: Improve documentation for API endpoints
 Robust Activity at 2025-05-07T11:04:29: Add support for multi-GPU training
+Robust Activity at 2025-05-12T11:14:53: Update README with new performance metrics

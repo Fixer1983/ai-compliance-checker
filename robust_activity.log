@@ -1556,3 +1556,4 @@ Robust Activity at 2025-06-11T11:58:03: Add unit tests for core modules
 Robust Activity at 2025-06-11T10:45:33: Fix bug in loss function calculation
 Robust Activity at 2025-06-12T09:21:37: Fix race condition in data pipeline
 Robust Activity at 2025-06-12T15:21:43: Add unit tests for core modules
+Robust Activity at 2025-06-12T09:15:32: Improve documentation for API endpoints

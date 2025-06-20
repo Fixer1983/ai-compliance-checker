@@ -1563,3 +1563,4 @@ Robust Activity at 2025-06-17T12:26:24: Fix bug in loss function calculation
 Robust Activity at 2025-06-20T17:59:50: Implement early stopping in training loop
 Robust Activity at 2025-06-20T17:07:45: Merge feature branch into main
 Robust Activity at 2025-06-20T16:53:17: Benchmark inference latency across devices
+Robust Activity at 2025-06-20T12:49:03: Clean up unused variables and functions

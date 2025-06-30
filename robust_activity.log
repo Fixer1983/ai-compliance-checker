@@ -1577,3 +1577,4 @@ Robust Activity at 2025-06-27T12:13:31: Sync with upstream repository changes
 Robust Activity at 2025-06-30T18:14:33: Improve documentation for API endpoints
 Robust Activity at 2025-06-30T11:18:47: Clean up unused variables and functions
 Robust Activity at 2025-06-30T17:18:46: Initial prototype for feature extraction
+Robust Activity at 2025-06-30T10:05:21: Add unit tests for core modules

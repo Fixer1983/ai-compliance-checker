@@ -1579,3 +1579,4 @@ Robust Activity at 2025-06-30T11:18:47: Clean up unused variables and functions
 Robust Activity at 2025-06-30T17:18:46: Initial prototype for feature extraction
 Robust Activity at 2025-06-30T10:05:21: Add unit tests for core modules
 Robust Activity at 2025-07-03T16:11:56: Refactor data loader for faster training
+Robust Activity at 2025-07-03T15:31:43: Fix bug in loss function calculation

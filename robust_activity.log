@@ -1594,3 +1594,4 @@ Robust Activity at 2025-07-15T12:28:14: Initial prototype for feature extraction
 Robust Activity at 2025-07-16T11:35:29: Optimize GPU memory allocation
 Robust Activity at 2025-07-16T10:14:18: Add support for transformer-based models
 Robust Activity at 2025-07-16T12:09:14: Benchmark inference latency across devices
+Robust Activity at 2025-07-16T18:23:36: Update README with new performance metrics

@@ -1597,3 +1597,4 @@ Robust Activity at 2025-07-16T12:09:14: Benchmark inference latency across devic
 Robust Activity at 2025-07-16T18:23:36: Update README with new performance metrics
 Robust Activity at 2025-07-18T18:08:43: Update dependencies to latest stable versions
 Robust Activity at 2025-07-18T10:36:51: Fix bug in loss function calculation
+Robust Activity at 2025-07-18T13:23:05: Add support for transformer-based models

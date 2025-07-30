@@ -1613,3 +1613,4 @@ Robust Activity at 2025-07-28T17:11:49: Update README with new performance metri
 Robust Activity at 2025-07-28T18:32:58: Update dependencies to latest stable versions
 Robust Activity at 2025-07-28T10:38:54: Improve documentation for API endpoints
 Robust Activity at 2025-07-28T17:33:21: Initial prototype for feature extraction
+Robust Activity at 2025-07-30T16:52:52: Add support for multi-GPU training

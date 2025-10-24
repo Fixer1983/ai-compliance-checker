@@ -1739,3 +1739,4 @@ Robust Activity at 2025-10-22T10:37:23: Improve model serialization and loading
 Robust Activity at 2025-10-22T16:15:51: Fix race condition in data pipeline
 Robust Activity at 2025-10-24T12:43:33: Refactor data loader for faster training
 Robust Activity at 2025-10-24T12:02:21: Clean up unused variables and functions
+Robust Activity at 2025-10-24T18:45:07: Add support for transformer-based models

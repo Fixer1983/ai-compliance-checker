@@ -1742,3 +1742,4 @@ Robust Activity at 2025-10-24T12:02:21: Clean up unused variables and functions
 Robust Activity at 2025-10-24T18:45:07: Add support for transformer-based models
 Robust Activity at 2025-10-31T10:00:34: Update README with new performance metrics
 Robust Activity at 2025-10-31T09:29:33: Address code review feedback
+Robust Activity at 2025-10-31T11:43:15: Fix bug in loss function calculation

@@ -1808,3 +1808,4 @@ Robust Activity at 2025-12-05T13:31:14: Initial prototype for feature extraction
 Robust Activity at 2025-12-05T09:15:31: Improve model serialization and loading
 Robust Activity at 2025-12-05T18:28:41: Improve documentation for API endpoints
 Robust Activity at 2025-12-08T10:34:26: Update README with new performance metrics
+Robust Activity at 2025-12-08T18:27:05: Add unit tests for core modules

@@ -1822,3 +1822,4 @@ Robust Activity at 2025-12-11T14:26:18: Improve documentation for API endpoints
 Robust Activity at 2025-12-11T15:09:28: Clean up unused variables and functions
 Robust Activity at 2025-12-12T09:53:08: Implement early stopping in training loop
 Robust Activity at 2025-12-12T17:02:07: Update dependencies to latest stable versions
+Robust Activity at 2025-12-12T10:56:40: Add unit tests for core modules

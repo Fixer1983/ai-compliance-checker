@@ -1962,3 +1962,4 @@ Robust Activity at 2026-03-09T17:49:19: Improve model serialization and loading
 Robust Activity at 2026-03-09T17:00:22: Fix bug in loss function calculation
 Robust Activity at 2026-03-09T17:49:14: Improve model serialization and loading
 Robust Activity at 2026-03-10T16:19:22: Refactor data loader for faster training
+Robust Activity at 2026-03-10T12:11:19: Benchmark inference latency across devices

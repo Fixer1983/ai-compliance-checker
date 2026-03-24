@@ -1,0 +1,1 @@
+pandas>=1.2.0\nnumpy>=1.19.0\nscikit-learn>=0.24.0

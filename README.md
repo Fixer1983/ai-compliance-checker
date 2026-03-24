@@ -1,0 +1,1 @@
+# ai-compliance-checker\n\nAutomated tool for auditing AI models for bias, fairness, and regulatory compliance.\n\n![Compliance](https://img.shields.io/badge/compliance-audited-blue)\n\n## Installation\n```bash\npip install -r requirements.txt\n```
